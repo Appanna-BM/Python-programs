@@ -4,6 +4,8 @@ items=["apple","guava"]
 for color in colors:
     for item in items:
         print(f"{item}:{color}")
+#for color, item in zip(color, item): #pairing items by their index number
+#   print(f"{item}:{color}")
 
 
 
