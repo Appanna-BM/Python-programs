@@ -4,4 +4,11 @@ while num <=10 :
     num+=1
 print("Number is greater than 10")
 
+#infinite loop
+name = ""
+while len(name)==0:
+    name1=input("Enter your name :")
+
+print("Hello"+name)
+
 
