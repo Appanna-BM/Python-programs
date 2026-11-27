@@ -12,4 +12,4 @@ except PermissionError:
 except OSError:
     print("You cannot delete that using that function")
 else:
-    print(path+" was deleted")
+    print(path+" was deleted")                                                                 
